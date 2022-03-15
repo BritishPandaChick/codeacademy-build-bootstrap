@@ -1,7 +1,8 @@
 body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-}
+
+}
 
 header {
   padding: 20px 0;
@@ -10,17 +11,20 @@ header {
 header .row, footer .row {
   display: flex;
   align-items: center;
-}
+
+}
 
 header h1 {
   font-weight: 700;
   margin: 0;
-}
+
+}
 
 header nav {
   display: flex;
   justify-content: flex-end;
-}
+
+}
 
 header p {
   padding: 0 20px;
@@ -42,12 +46,14 @@ header p {
   font-weight: 700px;
   margin: 0;
   color: #fff;
-}
+
+}
 
 .jumbotron h3 {
   margin: 0 0 20px;
   color: #fff;
-}
+
+}
 
 section .row img {
   margin: 0 0 30px;
@@ -75,7 +81,8 @@ section .row img {
   background-color: #E8DFE0;
   color: #ffffff;
   margin: 0 0 30px;
-}
+
+}
 
 footer {
   font-size: 12px;
@@ -91,7 +98,9 @@ footer ul {
   list-style: none;
 }
 
-footer li img {  
+footer li img {
+  
   width: 32px;
   height: 32px;
-}
+}
+
